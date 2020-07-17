@@ -1,4 +1,4 @@
-### Hi there, I am Abhishek Kumar Mishra. I am a Product Manager and NLP Practioner. 👋
+### Hi there, I am Abhishek Kumar Mishra. I am a Product Manager by work and NLP Practioner, Manga Reader by passion. 👋
 #### Learning and working on Projects to keep myself updated with the latest in domain of NLP and Cognitive Services.
 
 
