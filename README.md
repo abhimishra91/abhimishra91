@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Abhishek Kumar Mishra. I am a Product Manager and NLP Practioner. 👋
+#### Learning and working on Projects to keep myself updated with the latest in domain of NLP and Cognitive Services.
 
-<!--
-**abhimishra91/abhimishra91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...NLP Projects such as:
+  * [Transformer Tutorials](https://github.com/abhimishra91/transformers-tutorials): Notebooks to fine tune Transformers
+  * [Project Insight](https://github.com/abhimishra91/insight): **NLP as a Service Solution**
+- 🌱 I’m currently learning ...C and Python
+- 👯 I’m looking to collaborate on ...[Transformer Tutorials](https://github.com/abhimishra91/transformers-tutorials) and [Project Insight](https://github.com/abhimishra91/insight)
+- 🤔 I’m looking for help with ...AWS
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-mishra-116b2554/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Big Time Manga Reader and Enjoy Cooking new dishes
