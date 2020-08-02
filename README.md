@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on ...NLP Projects such as:
   * [Transformer Tutorials](https://github.com/abhimishra91/transformers-tutorials): Notebooks to fine tune Transformers
-  <!-- * [Project Insight](https://github.com/abhimishra91/insight): **NLP as a Service** -->
+  * [Project Insight](https://github.com/abhimishra91/insight): **NLP as a Service**
 - 🌱 I’m currently learning ...C and Python
-- 👯 I’m looking to collaborate on ...[Transformer Tutorials](https://github.com/abhimishra91/transformers-tutorials) <!--, [Project Insight](https://github.com/abhimishra91/insight) or any such project. -->
+- 👯 I’m looking to collaborate on ...[Transformer Tutorials](https://github.com/abhimishra91/transformers-tutorials), [Project Insight](https://github.com/abhimishra91/insight) or any such project.
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-mishra-116b2554/)
