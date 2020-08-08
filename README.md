@@ -20,4 +20,4 @@
 #### Deployment
 <p>  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  </p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=abhimishra91)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=abhimishra91&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
