@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ... Big Time Manga Reader and Enjoy Cooking new dishes
 
 
-[My github stats](https://github-readme-stats.vercel.app/api?username=abhimishra91)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=abhimishra91)(https://github.com/anuraghazra/github-readme-stats)]
