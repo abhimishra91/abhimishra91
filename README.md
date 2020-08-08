@@ -12,3 +12,6 @@
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-mishra-116b2554/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Big Time Manga Reader and Enjoy Cooking new dishes
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=abhimishra91)](https://github.com/abhimishra91/github-readme-stats)
